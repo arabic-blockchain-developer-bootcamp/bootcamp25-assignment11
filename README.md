@@ -1,4 +1,4 @@
-# Assignment 12: Smart Contracts Security 
+# Assignment 11: Smart Contracts Security 
 
 # Description
 
@@ -7,7 +7,7 @@ In this assignment, you have a vulnerable solidity contract. Your mission is to 
 
 # Instructions
 
-Write your code at `test/Assignment12.sol` inside the `exploit` function
+Write your code at `test/Assignment11.sol` inside the `exploit` function
 
 
 ## Submission
